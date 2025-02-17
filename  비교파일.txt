@@ -1,2 +1,3 @@
 비교파일 test
 hello
+hi
